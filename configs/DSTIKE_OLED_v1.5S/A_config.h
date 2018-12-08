@@ -11,7 +11,7 @@
 #define LED_MODE_BRIGHTNESS 10 // brightness of LED modes 
 
 #define LED_NEOPIXEL_NUM 1
-#define LED_NEOPIXEL_PIN 15
+#define LED_NEOPIXEL_PIN 18
 #define LED_NEOPIXEL_MODE NEO_GRB + NEO_KHZ800
 
 // ===================== DISPLAY CONFIG ==================== //
